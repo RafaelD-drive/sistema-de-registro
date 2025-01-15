@@ -2,3 +2,6 @@
 
 - Estado del proyecto: En construccion
 
+Para ejecutar el sistema debess poner:
+
+```mpm install react```
