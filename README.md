@@ -5,3 +5,5 @@
 Para ejecutar el sistema debess poner:
 
 ```mpm install react```
+
+sistema de registro 2
